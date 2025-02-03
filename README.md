@@ -28,19 +28,15 @@ The Dockerfile sets up a container environment with the required dependencies. I
 mine.py
 This Python script simulates the mining process. It includes functions to simulate finding a valid block and checking conditions for mining:
 
-import random
-import time
+mine_block function: Simulates mining by generating random numbers (nonces) and checking if the block condition is met (here it's a simple modulus check).
+time.sleep(1): Simulates the time delay typically experienced during mining.
+Usage
+To run the mining simulation, use Docker or run the Python script directly if you prefer:
 
-def mine_block():
-    # Simulating the mining of a block
-    print("Starting mining...")
-    while True:
-        nonce = random.randint(0, 1000000)  # Simulate finding a nonce for the block
-        if nonce % 2 == 0:  # Condition for finding a valid block (simulated)
-            print(f"Block mined with nonce: {nonce}")
-            break
-        time.sleep(1)  # Simulate time spent mining
+python mine.py
 
-if __name__ == "__main__":
-    mine_block()
+Contributing
+Feel free to fork this repository and contribute. Pull requests are welcome!
+
+
 
