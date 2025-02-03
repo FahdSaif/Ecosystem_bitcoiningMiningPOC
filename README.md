@@ -18,11 +18,11 @@ This project demonstrates a Proof of Concept (POC) for Bitcoin mining. It is des
 
 
 
-Code Explanation
-Dockerfile
+## Code Explanation
+##Dockerfile
 The Dockerfile sets up a container environment with the required dependencies. It pulls a base Python image and installs any necessary libraries to run the mining simulation.
 
-mine.py
+## mine.py
 This Python script simulates the mining process. It includes functions to simulate finding a valid block and checking conditions for mining:
 
 import random
@@ -41,5 +41,6 @@ def mine_block():
 if __name__ == "__main__":
     mine_block()
 
-Contributing
+
+## Contributing
 Feel free to fork this repository and contribute. Pull requests are welcome!
