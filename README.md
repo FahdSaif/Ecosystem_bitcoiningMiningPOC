@@ -36,22 +36,12 @@ To run the mining simulation, use Docker or run the Python script directly if yo
 python mine.py
 
 
-[![YouTube Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=UWcCYcdnO_o&list=PLdKN32ZK8xKMr5LVCJ5XmnKPMrAe3AiZ2)
+[![YouTube Video](https://img.youtube.com/vi/UWcCYcdnO_o/0.jpg)](https://www.youtube.com/watch?v=UWcCYcdnO_o&list=PLdKN32ZK8xKMr5LVCJ5XmnKPMrAe3AiZ2)
 
-[![YouTube Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=Cfg10FQ36Kg&list=PLdKN32ZK8xKMr5LVCJ5XmnKPMrAe3AiZ2&index=2)
+[![YouTube Video](https://img.youtube.com/vi/Cfg10FQ36Kg/0.jpg)](https://www.youtube.com/watch?v=Cfg10FQ36Kg&list=PLdKN32ZK8xKMr5LVCJ5XmnKPMrAe3AiZ2&index=2)
 
 
 [![YouTube Video](https://i3.ytimg.com/vi/bGtWzksfndo/hqdefault.jpg)](https://www.youtube.com/watch?v=bGtWzksfndo&list=PLdKN32ZK8xKMr5LVCJ5XmnKPMrAe3AiZ2&index=3)
-
-
-[![YouTube Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=bGtWzksfndo&list=PLdKN32ZK8xKMr5LVCJ5XmnKPMrAe3AiZ2&index=3)
-
-
-
-
-
-
-
 
 Contributing
 Feel free to fork this repository and contribute. Pull requests are welcome!
