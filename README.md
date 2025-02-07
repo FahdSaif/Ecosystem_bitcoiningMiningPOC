@@ -36,7 +36,7 @@ To run the mining simulation, use Docker or run the Python script directly if yo
 python mine.py
 
 
-[![YouTube Video](https://img.youtube.com/vi/UWcCYcdnO_o/0.jpg)](https://www.youtube.com/watch?v=UWcCYcdnO_o&list=PLdKN32ZK8xKMr5LVCJ5XmnKPMrAe3AiZ2)
+[![YouTube Video](https://img.youtube.com/vi/eKFuAYQOKWs/0.jpg)](https://www.youtube.com/watch?v=eKFuAYQOKWs&list=PLdKN32ZK8xKMr5LVCJ5XmnKPMrAe3AiZ2&index=1)
 
 [![YouTube Video](https://img.youtube.com/vi/Cfg10FQ36Kg/0.jpg)](https://www.youtube.com/watch?v=Cfg10FQ36Kg&list=PLdKN32ZK8xKMr5LVCJ5XmnKPMrAe3AiZ2&index=2)
 
