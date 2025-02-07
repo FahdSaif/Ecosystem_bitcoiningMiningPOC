@@ -38,6 +38,18 @@ python mine.py
 
 [![YouTube Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=UWcCYcdnO_o&list=PLdKN32ZK8xKMr5LVCJ5XmnKPMrAe3AiZ2)
 
+[![YouTube Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=Cfg10FQ36Kg&list=PLdKN32ZK8xKMr5LVCJ5XmnKPMrAe3AiZ2&index=2)
+
+
+[![YouTube Video](https://i3.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg)](https://www.youtube.com/watch?v=bGtWzksfndo&list=PLdKN32ZK8xKMr5LVCJ5XmnKPMrAe3AiZ2&index=3)
+
+
+[![YouTube Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=bGtWzksfndo&list=PLdKN32ZK8xKMr5LVCJ5XmnKPMrAe3AiZ2&index=3)
+
+
+
+
+
 
 
 
