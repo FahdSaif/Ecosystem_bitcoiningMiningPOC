@@ -1,4 +1,4 @@
-# Bitcoin Mining POC
+# Bitcoin Mining (🎬 Video Demos below)
 
 ## Overview
 
@@ -35,11 +35,15 @@ To run the mining simulation, use Docker or run the Python script directly if yo
 
 python mine.py
 
+🎬 Video Demo  
 
 [![YouTube Video](https://img.youtube.com/vi/eKFuAYQOKWs/0.jpg)](https://www.youtube.com/watch?v=eKFuAYQOKWs&list=PLdKN32ZK8xKMr5LVCJ5XmnKPMrAe3AiZ2&index=1)
 
+🎬 Video Demo  
+
 [![YouTube Video](https://img.youtube.com/vi/Cfg10FQ36Kg/0.jpg)](https://www.youtube.com/watch?v=Cfg10FQ36Kg&list=PLdKN32ZK8xKMr5LVCJ5XmnKPMrAe3AiZ2&index=2)
 
+🎬 Video Demo  
 
 [![YouTube Video](https://i3.ytimg.com/vi/bGtWzksfndo/hqdefault.jpg)](https://www.youtube.com/watch?v=bGtWzksfndo&list=PLdKN32ZK8xKMr5LVCJ5XmnKPMrAe3AiZ2&index=3)
 
